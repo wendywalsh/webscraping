@@ -1,0 +1,71 @@
+
+/*navbar background color*/
+.jumbotron{
+    text-align: center;
+}
+
+.btn{
+    border-top: 1px solid #96d1f8;
+    background: #65a9d7;
+    background: -webkit-gradient(linear, left top, left bottom, from(#3e779d), to(#65a9d7));
+    background: -webkit-linear-gradient(top, #3e779d, #65a9d7);
+    background: -moz-linear-gradient(top, #3e779d, #65a9d7);
+    background: -ms-linear-gradient(top, #3e779d, #65a9d7);
+    background: -o-linear-gradient(top, #3e779d, #65a9d7);
+    padding: 5px 10px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+    -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+    box-shadow: rgba(0,0,0,1) 0 1px 0;
+    text-shadow: rgba(0,0,0,.4) 0 1px 0;
+    color: white;
+    font-size: 14px;
+    font-family: Georgia, serif;
+    text-decoration: none;
+    vertical-align: middle;
+    }
+  
+.col-md-12{
+    color:black
+    padding-left: 0px;
+    padding-right:10px;
+    padding-top:10px;
+    padding-bottom:50px;
+    margin-left: 0px;
+}
+
+.col-md-6{
+    color:black
+    padding-left: 0px;
+    padding-right:10px;
+    padding-top:10px;
+    padding-bottom:50px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 20px;
+    margin-bottom: 10px; 
+    background-color:white;
+    flex: 50%;
+    
+}
+
+.col-md-4{
+    color:black;
+    padding-left: 100px;
+    padding-right:0px;
+    padding-top:0px;
+    padding-bottom:50px;
+    margin-left: 50px;
+    margin-right: 0px;
+    margin-top: 20px;
+    margin-bottom: 10px; 
+    background-color:white;
+    align-content: left;
+    flex: 50%;
+    
+}
+
+
+
